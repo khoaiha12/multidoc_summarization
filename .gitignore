@@ -1,0 +1,9 @@
+*.pyc
+.project
+.pydevproject
+.vscode
+.idea
+hidden/
+stuff/
+attn_vis-master/
+emnlp/
